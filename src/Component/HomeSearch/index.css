@@ -1,0 +1,40 @@
+.list {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+.listContainer {
+  list-style: none;
+  display: flex;
+  align-items: center;
+}
+.first {
+  font-family: 'roboto';
+  font-size: 12px;
+  color: #64748b;
+  margin-right: 10px;
+}
+.second {
+  font-family: 'roboto';
+  font-size: 12px;
+  color: #475569;
+  font-style: italic;
+  margin: 10px;
+}
+.third {
+  font-family: 'roboto';
+  font-size: 12px;
+  color: #6697ff;
+  font-style: italic;
+  margin: 10px;
+}
+.img123 {
+  width: 30px;
+  height: 30px;
+}
+.button {
+  border: none;
+  background-color: white;
+}
